@@ -43,3 +43,5 @@ cmake-build-release
 *.exe
 *.out
 *.app
+
+.DS_Store
